@@ -30,11 +30,6 @@ This project visualizes ongoing cricket match data, presenting insights on playe
 * **Power Query for ETL**
 * **CSV / Web Data Source**
 
----
-
-## 📸 **Dashboard Preview**
-
-(Add preview images here)
 
 ---
 
@@ -136,6 +131,6 @@ This project visualizes ongoing cricket match data, presenting insights on playe
 
 ---
 ## **Dashboard/Screenshots**
-![Dashboard](images/dashboard.png)
+![Dashboard](https://github.com/Akshay-S-12/POWER-BI-Live-Cricket-Dashboard-Project-/blob/main/image.png)
 
 
