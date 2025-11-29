@@ -96,11 +96,7 @@ This project visualizes ongoing cricket match data, presenting insights on playe
 
 ---
 
-## 📸 **Dashboard Preview**
 
-(Add preview images here)
-
----
 
 ## 📊 **Insights Included**
 
