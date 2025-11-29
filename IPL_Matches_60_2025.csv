@@ -1,0 +1,61 @@
+Match ID,Date,Time,Team 1,Team 1 Code,Team 2,Team 2 Code,Team 1 Score,Team 2 Score,Winner,Status
+M001,2025-03-22,19:30,Chennai Super Kings,CSK,Royal Challengers Bangalore,RCB,165,142,CSK,Completed
+M002,2025-03-22,15:30,Mumbai Indians,MI,Kolkata Knight Riders,KKR,178,175,MI,Completed
+M003,2025-03-23,19:30,Rajasthan Royals,RR,Delhi Capitals,DC,156,159,DC,Completed
+M004,2025-03-23,15:30,Sunrisers Hyderabad,SRH,Gujarat Titans,GT,172,175,GT,Completed
+M005,2025-03-24,19:30,Lucknow Super Giants,LSG,Punjab Kings,PBKS,158,144,LSG,Completed
+M006,2025-03-24,15:30,Chennai Super Kings,CSK,Mumbai Indians,MI,168,171,MI,Completed
+M007,2025-03-25,19:30,Rajasthan Royals,RR,Sunrisers Hyderabad,SRH,162,165,SRH,Completed
+M008,2025-03-25,15:30,Royal Challengers Bangalore,RCB,Delhi Capitals,DC,158,161,DC,Completed
+M009,2025-03-26,19:30,Gujarat Titans,GT,Kolkata Knight Riders,KKR,169,172,KKR,Completed
+M010,2025-03-26,15:30,Punjab Kings,PBKS,Lucknow Super Giants,LSG,155,158,LSG,Completed
+M011,2025-03-27,19:30,Chennai Super Kings,CSK,Rajasthan Royals,RR,174,168,CSK,Completed
+M012,2025-03-27,15:30,Mumbai Indians,MI,Gujarat Titans,GT,181,176,MI,Completed
+M013,2025-03-28,19:30,Sunrisers Hyderabad,SRH,Royal Challengers Bangalore,RCB,167,164,SRH,Completed
+M014,2025-03-28,15:30,Delhi Capitals,DC,Kolkata Knight Riders,KKR,155,153,DC,Completed
+M015,2025-03-29,19:30,Lucknow Super Giants,LSG,Punjab Kings,PBKS,175,168,LSG,Completed
+M016,2025-03-29,15:30,Rajasthan Royals,RR,Gujarat Titans,GT,169,171,GT,Completed
+M017,2025-03-30,19:30,Chennai Super Kings,CSK,Delhi Capitals,DC,160,157,CSK,Completed
+M018,2025-03-30,15:30,Mumbai Indians,MI,Sunrisers Hyderabad,SRH,172,170,MI,Completed
+M019,2025-03-31,19:30,Royal Challengers Bangalore,RCB,Kolkata Knight Riders,KKR,158,162,KKR,Completed
+M020,2025-03-31,15:30,Lucknow Super Giants,LSG,Rajasthan Royals,RR,163,166,RR,Completed
+M021,2025-04-01,19:30,Gujarat Titans,GT,Punjab Kings,PBKS,177,159,GT,Completed
+M022,2025-04-01,15:30,Chennai Super Kings,CSK,Sunrisers Hyderabad,SRH,171,174,SRH,Completed
+M023,2025-04-02,19:30,Mumbai Indians,MI,Delhi Capitals,DC,185,179,MI,Completed
+M024,2025-04-02,15:30,Royal Challengers Bangalore,RCB,Rajasthan Royals,RR,166,170,RR,Completed
+M025,2025-04-03,19:30,Kolkata Knight Riders,KKR,Lucknow Super Giants,LSG,168,171,LSG,Completed
+M026,2025-04-03,15:30,Gujarat Titans,GT,Delhi Capitals,DC,159,155,GT,Completed
+M027,2025-04-04,19:30,Punjab Kings,PBKS,Sunrisers Hyderabad,SRH,154,157,SRH,Completed
+M028,2025-04-04,15:30,Chennai Super Kings,CSK,Kolkata Knight Riders,KKR,170,168,CSK,Completed
+M029,2025-04-05,19:30,Mumbai Indians,MI,Rajasthan Royals,RR,176,181,RR,Completed
+M030,2025-04-05,15:30,Royal Challengers Bangalore,RCB,Lucknow Super Giants,LSG,162,159,RCB,Completed
+M031,2025-04-06,19:30,Sunrisers Hyderabad,SRH,Punjab Kings,PBKS,168,161,SRH,Completed
+M032,2025-04-06,15:30,Delhi Capitals,DC,Rajasthan Royals,RR,157,154,DC,Completed
+M033,2025-04-07,19:30,Chennai Super Kings,CSK,Gujarat Titans,GT,173,167,CSK,Completed
+M034,2025-04-07,15:30,Mumbai Indians,MI,Lucknow Super Giants,LSG,179,182,LSG,Completed
+M035,2025-04-08,19:30,Kolkata Knight Riders,KKR,Royal Challengers Bangalore,RCB,174,171,KKR,Completed
+M036,2025-04-08,15:30,Rajasthan Royals,RR,Punjab Kings,PBKS,161,158,RR,Completed
+M037,2025-04-09,19:30,Sunrisers Hyderabad,SRH,Delhi Capitals,DC,169,172,DC,Completed
+M038,2025-04-09,15:30,Gujarat Titans,GT,Kolkata Knight Riders,KKR,165,168,KKR,Completed
+M039,2025-04-10,19:30,Chennai Super Kings,CSK,Lucknow Super Giants,LSG,167,164,CSK,Completed
+M040,2025-04-10,15:30,Mumbai Indians,MI,Punjab Kings,PBKS,180,174,MI,Completed
+M041,2025-04-11,19:30,Royal Challengers Bangalore,RCB,Rajasthan Royals,RR,159,162,RR,Completed
+M042,2025-04-11,15:30,Delhi Capitals,DC,Sunrisers Hyderabad,SRH,163,160,DC,Completed
+M043,2025-04-12,19:30,Lucknow Super Giants,LSG,Gujarat Titans,GT,170,173,GT,Completed
+M044,2025-04-12,15:30,Kolkata Knight Riders,KKR,Punjab Kings,PBKS,175,169,KKR,Completed
+M045,2025-04-13,19:30,Chennai Super Kings,CSK,Royal Challengers Bangalore,RCB,172,169,CSK,Completed
+M046,2025-04-13,15:30,Mumbai Indians,MI,Rajasthan Royals,RR,183,180,MI,Completed
+M047,2025-04-14,19:30,Sunrisers Hyderabad,SRH,Lucknow Super Giants,LSG,166,170,LSG,Completed
+M048,2025-04-14,15:30,Delhi Capitals,DC,Gujarat Titans,GT,161,164,GT,Completed
+M049,2025-04-15,19:30,Rajasthan Royals,RR,Kolkata Knight Riders,KKR,158,155,RR,Completed
+M050,2025-04-15,15:30,Punjab Kings,PBKS,Chennai Super Kings,CSK,159,162,CSK,Completed
+M051,2025-04-16,19:30,Mumbai Indians,MI,Delhi Capitals,DC,171,168,MI,Completed
+M052,2025-04-16,15:30,Gujarat Titans,GT,Royal Challengers Bangalore,RCB,176,173,GT,Completed
+M053,2025-04-17,19:30,Sunrisers Hyderabad,SRH,Rajasthan Royals,RR,164,167,RR,Completed
+M054,2025-04-17,15:30,Lucknow Super Giants,LSG,Kolkata Knight Riders,KKR,169,172,KKR,Completed
+M055,2025-04-18,19:30,Chennai Super Kings,CSK,Punjab Kings,PBKS,168,165,CSK,Completed
+M056,2025-04-18,15:30,Mumbai Indians,MI,Gujarat Titans,GT,177,174,MI,Completed
+M057,2025-04-19,19:30,Royal Challengers Bangalore,RCB,Delhi Capitals,DC,161,164,DC,Completed
+M058,2025-04-19,15:30,Rajasthan Royals,RR,Sunrisers Hyderabad,SRH,170,168,RR,Completed
+M059,2025-04-20,19:30,Kolkata Knight Riders,KKR,Lucknow Super Giants,LSG,163,166,LSG,Completed
+M060,2025-04-20,15:30,Gujarat Titans,GT,Punjab Kings,PBKS,172,169,GT,Live

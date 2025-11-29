@@ -1,0 +1,11 @@
+Position,Team Name,Short Code,Matches,Won,Lost,Points,NRR,Series
+1,"Chennai Super Kings",CSK,10,7,3,14,+0.65,IPL 2025
+2,"Mumbai Indians",MI,10,7,3,14,+0.45,IPL 2025
+3,"Rajasthan Royals",RR,10,6,4,12,+0.35,IPL 2025
+4,"Delhi Capitals",DC,10,6,4,12,+0.25,IPL 2025
+5,"Gujarat Titans",GT,10,5,5,10,-0.15,IPL 2025
+6,"Sunrisers Hyderabad",SRH,10,5,5,10,-0.25,IPL 2025
+7,"Royal Challengers Bangalore",RCB,10,4,6,8,-0.35,IPL 2025
+8,"Kolkata Knight Riders",KKR,10,4,6,8,-0.55,IPL 2025
+9,"Lucknow Super Giants",LSG,10,3,7,6,-0.65,IPL 2025
+10,"Punjab Kings",PBKS,10,2,8,4,-0.75,IPL 2025
